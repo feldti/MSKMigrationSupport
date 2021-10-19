@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"collector:classes:fastMode:" : "MSK 12/18/2019 12:51",
+		"defaultFilename" : "MSK 12/18/2019 12:51",
+		"fileOutClasses:in:" : "MSK 05/26/2020 13:24",
+		"migrator:workerIndexOneBased:workerTotal:transactionStepSize:" : "MSK 12/18/2019 13:12" },
+	"instance" : {
+		"calculateMigratableClasses" : "MSK 12/18/2019 12:51",
+		"candidateClasses" : "MSK 12/18/2019 12:51",
+		"candidateClasses:" : "MSK 12/18/2019 12:51",
+		"createGsBitmapFile" : "MSK 12/18/2019 14:25",
+		"fastMode" : "MSK 12/18/2019 12:51",
+		"fastMode:" : "MSK 12/18/2019 12:51",
+		"fileInfo" : "MSK 12/18/2019 13:14",
+		"initialize" : "MSK 12/18/2019 12:51",
+		"log:" : "MSK 12/18/2019 12:51",
+		"migrate" : "MSK 12/19/2019 06:55",
+		"migrationFilename" : "MSK 12/18/2019 12:51",
+		"migrationFilename:" : "MSK 12/18/2019 12:51",
+		"migratorIndex" : "MSK 12/18/2019 12:51",
+		"migratorIndex:" : "MSK 12/18/2019 12:51",
+		"migratorTotal" : "MSK 12/18/2019 12:51",
+		"migratorTotal:" : "MSK 12/18/2019 12:51",
+		"removeGsBitmapFile" : "MSK 12/18/2019 12:51",
+		"transactionStepSize" : "MSK 12/18/2019 12:51",
+		"transactionStepSize:" : "MSK 12/18/2019 12:51" } }

@@ -1,0 +1,19 @@
+{
+	"category" : "MSKMigrationSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"migrationFilename",
+		"candidateClasses",
+		"migratorTotal",
+		"migratorIndex",
+		"fastMode",
+		"transactionStepSize" ],
+	"name" : "MSKMigrater",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
