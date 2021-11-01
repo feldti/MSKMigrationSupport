@@ -6,10 +6,10 @@ baseline: spec
 		do: [
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKMigration';
+				package: 'MSKMigrationSupport';
 				yourself.
 			"Now the names for more specific loading"
 			spec
-				group: 'default' with: #('MSKMigration');
+				group: 'default' with: #('MSKMigrationSupport');
 				yourself
 		]

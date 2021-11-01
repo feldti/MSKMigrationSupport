@@ -1,5 +1,5 @@
 {
-	"category" : "BaselineOfMSKMigration",
+	"category" : "BaselineOfMSKMigrationSupport",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BaselineOfMSKMigration",
+	"name" : "BaselineOfMSKMigrationSupport",
 	"pools" : [
 		 ],
 	"super" : "BaselineOf",
