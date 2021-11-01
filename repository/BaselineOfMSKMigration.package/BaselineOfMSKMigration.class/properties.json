@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMSKMigration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMSKMigration",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
