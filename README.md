@@ -11,8 +11,8 @@ You can load MSKMigration using Metacello
 
 ```Smalltalk
 Metacello new
-  repository: 'github://feldti/MSKMigration:main/repository';
-  baseline: 'MSKMigration';
+  repository: 'github://feldti/MSKMigrationSupport:main/repository';
+  baseline: 'MSKMigrationSupport';
   load 
 ```
 
