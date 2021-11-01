@@ -5,4 +5,14 @@ model code. One of these methods returns the information, which classes belong t
 The Migration support stuff is based on that and allows a migration of a project database ... either 
 single threaded or multi-threaded.
 
+## Installation
+
+You can load MSKMigration using Metacello
+
+```Smalltalk
+Metacello new
+  repository: 'github://feldti/MSKMigration:main/repository';
+  baseline: 'MSKMigration';
+  load 
+```
 
